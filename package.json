@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite --open --port 3000"
+    "dev": "vite --open --port 3000",
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
